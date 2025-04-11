@@ -1,0 +1,67 @@
+{
+  "songs": [
+    {
+      "id": 1234,
+      "title": "Heaven",
+      "artist": "Shihoko Hirata",
+      "year": 2008,
+      "genre": "Hip Hop"
+    },
+    {
+      "id": 8930,
+      "title": "Good Life",
+      "artist": "Kanye West",
+      "year": 2007,
+      "genre": "Rap"
+    },
+    {
+      "id": 6797,
+      "title": "Doomsday",
+      "artist": "MF DOOM",
+      "year": 1999,
+      "genre": "Hip Hop"
+    },
+    {
+      "id": 2345,
+      "title": "Libera Me From Hell",
+      "artist": "Taka Iwasaki",
+      "year": 2007,
+      "genre": "Rap"
+    },
+    {
+      "id": 4837,
+      "title": "Nothing To Lose",
+      "artist": "Tupac",
+      "year": 1997,
+      "genre": "Rap"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
